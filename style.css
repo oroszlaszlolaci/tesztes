@@ -1,0 +1,195 @@
+
+
+header {
+ 	background: url("startpic.jpg") no-repeat 70% center/cover;
+  display: table;
+ 	text-align: center;
+ 	height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+ 	background-attachment: fixed;
+}
+.opacity{
+  opacity: 0.2;
+}
+.logo{
+  color: white;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 5em;
+  padding-top: 20%;
+
+
+
+
+
+    
+}
+
+#nav{
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+#company {
+	background-color: #333A56;
+  color: #F7F5E6;
+ 	display: table;
+  text-align: justify;
+  height: auto;
+  width: 100%;
+  
+  }
+ #content {
+  margin: 10px;
+  padding: 80px;
+  } 
+
+  #content:after {
+  
+  } 
+ #content h1{
+  text-align: center;
+  font-size: 2em;
+ }
+ #content p{
+  font-size: 1.2em;
+
+ }
+
+
+#machines{
+  background-color: #333A56;
+  color: #ffffff;
+
+
+  width: 100%;
+  height: 200px;
+}
+
+#activity{
+  background-color: #F7F5E6;
+  color: #52658F;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+.heading{
+  font-size: 40px;
+  color: blue;
+}
+#table{
+  height: auto;
+  width: 50%;
+  padding: 50px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+  text-align: center;
+  font-size: 2em;
+  line-height: 1.8;
+  margin: 50px;
+}
+#table h2:hover{
+  color: red;
+  font-size: 2.0005em;
+}
+
+#references{
+  background-color: #333A56;
+  color: #ffffff;
+  text-align: center;
+
+  width: 100%;
+  height: 200px;
+
+}
+
+
+
+#certifications{
+  background-color: #52658F;
+  color: #E8E8E8;
+
+
+
+  width: 100%;
+  height: 200px;
+}
+
+
+
+#partners{
+  background-color: #E8E8E8; 
+
+
+
+
+  width: 100%;
+  height: 200px;
+}
+
+#contact{
+  background: url("cover.png") no-repeat 70% center/cover;
+  color: white;
+  font-size: 3em;
+  display: table;
+  text-align:center;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  background-attachment: fixed;
+}
+
+#address{
+  width: 
+
+}
+
+#maikl{
+
+}
+
+footer {
+  height: 4vh;
+  width: 100%;
+  background-color: #606060;
+  color: #fff;
+  font-family: 'Muli' sans-serif;
+  display: table;
+  font-size: .875em;
+}
+
+.footer-wrapper{
+  vertical-align: middle;
+  padding: .5em 1em;
+  text-align: center;
+}
